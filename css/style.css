@@ -1,21 +1,25 @@
-body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-}
+ body {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 100vh;
+     margin: 0;
+     font-family: 'Arial', sans-serif;
+     background-color: #bbbdc3;
+     color: #fff;
+ }
 
-#clock-container {
-    border: 2px solid #333;
-    border-radius: 20px;
-    padding: 20px;
-    text-align: center;
-}
+ #clock-container {
+     border: 3px solid #61dafb;
+     border-radius: 20px;
+     padding: 20px;
+     text-align: center;
+     background-color: #8d8c8c;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+ }
 
-#clock {
-    font-size: 3em;
-}
-
+ #clock {
+     font-size: 3em;
+     font-weight: bold;
+     color: #61dafb;
+ }
