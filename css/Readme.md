@@ -1,6 +1,6 @@
 # Centered Clock
 
-A simple HTML page with JavaScript that displays a centered clock with hours, minutes, seconds, and AM/PM. The clock is surrounded by a styled box for better presentation.
+A simple HTML page with JavaScript that displays a centered clock with hours, minutes, seconds, and AM/PM.   The clock is surrounded by a styled box for better presentation.
 
 ## Demo
 
